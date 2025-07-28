@@ -29,7 +29,7 @@ const MadeByHumans = () => {
             </div>
             
             {/* White box at the bottom with overflow */}
-            <div className="w-[120%] bg-white h-10 rounded-t-lg absolute left-[-10%] bottom-0"></div>
+            <div className="w-[1%] bg-white h-10 rounded-t-lg absolute left-[-10%] bottom-0"></div>
           </div>
         </div>
       </div>
